@@ -19,7 +19,7 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/mitesh99/Mitesh-JPDB/blob/main/Assets/Screenshots/Screenshot%202022-01-13%20195627.png)
+![Dashboard](https://github.com/mitesh99/Mitesh-JPDB/blob/main/Assets/Screenshots/Screenshot 2022-01-20 232219.png)
 
-![Visualize](https://github.com/mitesh99/Mitesh-JPDB/blob/main/Assets/Screenshots/Screenshot%202022-01-13%20195547.png)
+![Visualize](https://github.com/mitesh99/Mitesh-JPDB/blob/main/Assets/Screenshots/Screenshot 2022-01-20 232254.png)
 
